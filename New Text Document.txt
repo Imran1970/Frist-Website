@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+
+
+
+
+<head>
+<title>Ridoy Website</title>
+</head>
+
+
+
+
+
+<body>
+<p> Amar sonar bangla</p>
+<a href="https://www.google.com"></a>
+</body>
+
+
+
+
+
+</html>
